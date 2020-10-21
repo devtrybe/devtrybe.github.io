@@ -1,0 +1,39 @@
+
+ <style>
+
+/* O background-color do body só está sendo aplicado se eu deixar o * abaixo: */
+/* O corpo do style foi inteiramente copiado do html, onde funcionava perfeitamente. */
+
+ * {
+        background-color: rgb(117, 114, 68);
+    }
+
+    body {
+        background-color: rgb(95, 184, 211);
+    }
+    
+    h1 {
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+    #description p {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    
+    .aprender {
+        font-size: 24px;
+    }
+        
+    .uso-do-google {
+        font-size: 28px;
+    }
+
+    .biscoito-canino {
+        font-size: 22px;
+    }
+
+    .devtrybe {
+        font-size: 32px;
+    }
+
+</style>
